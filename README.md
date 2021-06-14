@@ -1,7 +1,7 @@
 ### Hi there, I'm Lazar Alexandru-Constantin
 ## I'm a Computer Science student at the Faculty of Informatics of "Alexandru-Ioan Cuza" University, Iasi
 
-- 🌱 I’m open to learn anything new!
+- 🌱 I’m open to learning anything new!
 - 👯 I’m looking to collaborate with other developers or corporations!
 - 🥅 2021 Goals: Create new projects using the new knowledge I aquired recently 
 - ⚡ Not related to programming: I love to play the piano, to practice chess and to read about psychology theory
