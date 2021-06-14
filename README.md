@@ -3,8 +3,8 @@
 
 - 🌱 I’m open to learning anything new!
 - 👯 I’m looking to collaborate with other developers or corporations!
-- 🥅 2021 Goals: Create new projects using the new knowledge I aquired recently 
-- ⚡ Not related to programming: I love to play the piano, to practice chess and to read about psychology theory
+- 🥅 2021 Goals: Create new projects using the new knowledge I aquired recently.
+- ⚡ Not related to programming: I love to play the piano, to practice chess and to read about psychology theory.
 
 ### Connect with me:
 
