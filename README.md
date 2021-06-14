@@ -17,7 +17,7 @@
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="SQL" width="26px" src="https://c0.klipartz.com/pngpicture/484/514/gratis-png-microsoft-sql-server-iconos-de-la-computadora-oracle-corporation-oracle-base-de-datos-logotipo-de-sql.png" />
 <br />
 <br />
 
