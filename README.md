@@ -1,5 +1,5 @@
 ### Hi there, I'm Lazar Alexandru-Constantin
-## I'm a Computer Science student at the Faculty of Informatics of "Alexandru-Ioan Cuza" University, Iasi
+## I'm a Computer Science student at the Faculty of Computer Science of "Alexandru-Ioan Cuza" University, Iasi
 
 - 🌱 I’m open to learning anything new!
 - 👯 I’m looking to collaborate with other developers or corporations!
