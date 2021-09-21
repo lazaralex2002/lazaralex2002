@@ -18,6 +18,7 @@
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
 <img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />
+<img align="left" alt="JS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
 <br />
 <br />
 
